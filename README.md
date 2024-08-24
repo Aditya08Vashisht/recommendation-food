@@ -58,6 +58,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📬 Contact
 For any questions or suggestions, please feel free to reach out:
 
-Aditya Vashisht - your-email@example.com
+Aditya Vashisht - avdelhistar@gmail.com
 LinkedIn: https://www.linkedin.com/in/aditya08vashisht/
 GitHub: https://github.com/Aditya08Vashisht
